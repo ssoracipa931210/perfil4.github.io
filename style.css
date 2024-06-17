@@ -13,7 +13,7 @@ h1{
     font-family: "Pacifico", cursiva; peso de fuente: 400; estilo de fuente: normal;
  }
 .header{
-    background-image: url(..//curriculum/fondo3.png);
+    background-image: url(fondo3.png);
     background-size: cover;
     background-position: center;
     min-height: 15vh;
